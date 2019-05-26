@@ -1,0 +1,33 @@
+*{
+  border-style: none;
+}.box{
+    width: 300px;
+    /* flex-wrap: wrap; */
+    margin: 60px auto;
+}
+.bvn {
+    padding: 15px 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+    border: 1px solid #a5a5a5;
+    background-color: white;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+
+
+  }
+  
+  .btn {
+    padding: 10px 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+    /* border: 1px solid #a5a5a5; */
+    width: 100px;
+    color: white;
+    font-size: 20px;
+    background-color: rgb(91, 91, 194);
+  }
+  label{
+    font-size: 30px;
+  }
